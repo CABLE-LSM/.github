@@ -4,8 +4,8 @@ This README is intended for news about changes and testing in the CABLE-LSM orga
 
 ## 2023-11-28
 
-### CABLE source code
-The source code is now under the src/ folder in the [CABLE](https://github.com/CABLE-LSM/CABLE) repository.
+### CABLE
+CABLE is now managed on GitHub in the [CABLE](https://github.com/CABLE-LSM/CABLE) repository.
 
 ### CABLE Trac archive
 CABLE Trac tickets from trac.nci.org.au are now archived in the [CABLE-Trac-archive](https://github.com/CABLE-LSM/CABLE-Trac-archive) repository.
