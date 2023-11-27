@@ -1,10 +1,14 @@
 # README for the CABLE-LSM organization
 
-This README is intended for news about changes and testing in the CABLE-LSM organization,
-including news about test repositories.
+This README is intended for news about changes and testing in the CABLE-LSM organization, including news about test repositories.
 
-## 2023-10-12
+## 2023-11-28
 
-The [CABLE-Trac](https://github.com/CABLE-LSM/CABLE-Trac) repository is being used for testing Trac to GitHub migration and
-Subversion to GitHub migration.
+### CABLE source code
+The source code is now under the src/ folder in the [CABLE](https://github.com/CABLE-LSM/CABLE) repository.
 
+### CABLE Trac archive
+CABLE Trac tickets from trac.nci.org.au are now archived in the [CABLE-Trac-archive](https://github.com/CABLE-LSM/CABLE-Trac-archive) repository.
+
+The [CABLE-Trac](https://github.com/CABLE-LSM/CABLE-Trac) repository was being used for testing Trac to GitHub migration and
+Subversion to GitHub migration, and has now been deleted.
