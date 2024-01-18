@@ -2,6 +2,11 @@
 
 This README is intended for news about changes and testing in the CABLE-LSM organization, including news about test repositories.
 
+## 2024-01-18
+
+### CABLE-svn-archive
+The [CABLE-svn-archive](https://github.com/CABLE-LSM/CABLE-svn-archive) repository is an almost complete read-only copy of the previous CABLE Subversion archive, including its change history.
+
 ## 2023-11-28
 
 ### CABLE
